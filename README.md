@@ -1,0 +1,1 @@
+Simple rust application to start playing with DSP
